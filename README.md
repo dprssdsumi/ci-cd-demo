@@ -8,7 +8,7 @@ Every time you push to `main`, GitHub Actions automatically:
 1. Spins up a fresh Ubuntu environment
 2. Installs Python dependencies
 3. Runs all pytest tests
-4. Reports ✅ pass or ❌ fail
+4. Reports pass or fail
 
 ## Project Structure
 ```
